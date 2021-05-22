@@ -1,0 +1,1 @@
+# Time-class-to-store-time-in-hours-and-minutes.
